@@ -13,6 +13,11 @@ pub struct WindowConfig {
     pub dark_mode: bool,
     pub disabled_web_shortcuts: bool,
     pub activation_shortcut: String,
+    pub hide_on_close: bool,
+    pub incognito: bool,
+    pub title: Option<String>,
+    pub enable_wasm: bool,
+    pub enable_drag_drop: bool,
 }
 
 #[derive(Debug, Serialize, Deserialize)]
@@ -52,6 +57,8 @@ pub struct PakeConfig {
     pub windows: Vec<WindowConfig>,
     pub user_agent: UserAgent,
     pub system_tray: FunctionON,
+    pub system_tray_path: String,
+    pub proxy_url: String,
 }
 
 impl PakeConfig {
