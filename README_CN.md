@@ -313,6 +313,13 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Pandolar">
+                    <img src="https://avatars.githubusercontent.com/u/54896726?v=4" width="90;" alt="Pandolar"/>
+                    <br />
+                    <sub><b>Pandolar</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/vaddisrinivas">
                     <img src="https://avatars.githubusercontent.com/u/38348871?v=4" width="90;" alt="vaddisrinivas"/>
                     <br />
@@ -340,6 +347,8 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>Yi Xin</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/g1eny0ung">
                     <img src="https://avatars.githubusercontent.com/u/15034155?v=4" width="90;" alt="g1eny0ung"/>
@@ -347,8 +356,6 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>Yue Yang</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/lkieryan">
                     <img src="https://avatars.githubusercontent.com/u/187804088?v=4" width="90;" alt="lkieryan"/>
@@ -391,6 +398,8 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>An Li</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/nekomeowww">
                     <img src="https://avatars.githubusercontent.com/u/11081491?v=4" width="90;" alt="nekomeowww"/>
@@ -398,8 +407,6 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>Ayaka Neko</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/turkyden">
                     <img src="https://avatars.githubusercontent.com/u/24560160?v=4" width="90;" alt="turkyden"/>
@@ -442,6 +449,8 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>Luminall</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/Milo123459">
                     <img src="https://avatars.githubusercontent.com/u/50248166?v=4" width="90;" alt="Milo123459"/>
@@ -449,8 +458,6 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>Milo</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/princemaple">
                     <img src="https://avatars.githubusercontent.com/u/1329716?v=4" width="90;" alt="princemaple"/>
@@ -493,6 +500,8 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>Null</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/liudonghua123">
                     <img src="https://avatars.githubusercontent.com/u/2276718?v=4" width="90;" alt="liudonghua123"/>
@@ -500,8 +509,6 @@ Pake 的发展离不开这些优秀的贡献者 ❤️
                     <sub><b>Liudonghua</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/liusishan">
                     <img src="https://avatars.githubusercontent.com/u/33129823?v=4" width="90;" alt="liusishan"/>
